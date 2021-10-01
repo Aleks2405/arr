@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+/.vs/arr/v16/.suo
+/.vs/arr/v16/Project1/.vs/Project1/v16
+/.vs/arr/v16/Project1/Project1/Project1.vcxproj
+/.vs/arr/v16/Project1/Project1/Project1.vcxproj.filters
+/.vs/arr/v16/Project1/Project1/Project1.vcxproj.user
+/.vs/arr/v16/Project1/Project1.sln
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/ProjectSettings.json
