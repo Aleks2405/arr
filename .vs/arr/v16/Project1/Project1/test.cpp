@@ -4,4 +4,4 @@ int main() {
 	cout << "Dimon";
 	cout << "maks";
 	cout << "sfdsgfdsf";
-}выапапа
+}выапапапавпаавп
